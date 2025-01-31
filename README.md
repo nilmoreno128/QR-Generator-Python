@@ -4,7 +4,13 @@ This script allows you to generate QR codes from text or URLs, with the ability 
 
 ✅ Customize the size and color of the QR code.  
 ✅ Save the generated QR code as an image file.  
-✅ Generate QR codes from input provided directly in the console.  
+✅ Generate QR codes from input provided directly in the console.
+
+<details>
+  <summary>Example of the result</summary>
+  
+  ![QR](Media/generated_qr_code.png)
+</details>
 
 ## **Installation**  
 - Download the [`QR_Generator.exe`](QR_Generator.exe) file.  
@@ -13,12 +19,6 @@ This script allows you to generate QR codes from text or URLs, with the ability 
 ## **Usage**  
 
 Once you run the `QR_Generator.exe`, the following options will be available in the console
-
-## **Example**
-<details>
-  <summary>Example</summary>
-  ![QR](Media/generated_qr_code.png)
-</details>
 
 ## **How the Script Work**
 <details>
@@ -47,7 +47,7 @@ Once you run the `QR_Generator.exe`, the following options will be available in 
 
 </details>
 
-<details open>
+<details>
   <summary>🔍 How the Script Works (Detailed Explanation)</summary>
 
   The script is designed to generate QR codes based on input text or URLs. Here's a breakdown of how the main parts of the code work:
